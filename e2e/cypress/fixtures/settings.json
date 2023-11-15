@@ -1,0 +1,5 @@
+{
+  "testUser": "e00000001@student.tuwien.ac.at",
+  "testPw": "password",
+  "baseUrl": "localhost:4200"
+}
